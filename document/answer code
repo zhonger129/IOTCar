@@ -1,6 +1,6 @@
 index.html
 
-17. yourName.mybluemix.net
+17. Simon_IOTCar.mybluemix.net
 39. socket.emit("String", "w");
 50. socket.emit("String", "s");
 61. socket.emit("String", "a");
@@ -14,5 +14,5 @@ app.js
 
 manifest.yml
 
-6. name: YourName
-7. host: yourname
+6. name: Simon_IOTCar
+7. host: Simon_IOTCar
