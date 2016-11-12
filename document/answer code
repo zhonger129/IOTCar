@@ -14,5 +14,5 @@ app.js
 
 manifest.yml
 
-6. name: YourName
+6. name: Simon_IOTCar
 7. host: yourname
